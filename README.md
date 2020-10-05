@@ -10,6 +10,8 @@
   <img align="left" alt="Sem's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br/>
+
 ##### 📚 Computer Science student at [Avans Hogeschool Breda](https://www.avans.nl/opleidingen/opleidingzoeker/technische-informatica-breda-voltijd-bachelor/)
 ##### 🎮 Beginner PS Vita Game developer
 ##### 🛹 Skater
