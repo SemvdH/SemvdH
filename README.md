@@ -11,6 +11,7 @@
 </a>
 
 <br/>
+<br/>
 
 
 - 📚 Computer Science student at [Avans Hogeschool Breda](https://www.avans.nl/opleidingen/opleidingzoeker/technische-informatica-breda-voltijd-bachelor/)
@@ -33,7 +34,6 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/arduino-4-569256.png"></code>
 <code><img height="30" src="https://i.pinimg.com/originals/24/e0/a3/24e0a35fd1bee2de25e10f84cbffe2b8.png"></code>
 <br/>
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
 
