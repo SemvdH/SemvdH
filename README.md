@@ -16,7 +16,7 @@
 
 - 📚 Computer Science student at [Avans Hogeschool Breda](https://www.avans.nl/opleidingen/opleidingzoeker/technische-informatica-breda-voltijd-bachelor/)
 - 🛠 Currently working on all kinds of cool projects, see my [repositories](https://github.com/SemvdH?tab=repositories) for more!
-- 📖 Currently learning CompSci at uni, this semester is about C#
+- 📖 Currently learning CompSci at uni, this semester is about Android
 - 🎮 Beginner PS Vita Game developer
 - 🛹 Skater
 - 💻 Computer enthusiast
