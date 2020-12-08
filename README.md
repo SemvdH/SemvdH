@@ -35,7 +35,7 @@
 <code><img height="30" src="https://i.pinimg.com/originals/24/e0/a3/24e0a35fd1bee2de25e10f84cbffe2b8.png"></code>
 <br/>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -68,8 +68,11 @@ Sunday       120 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-C#                       36 mins             █████████████████████████   99.98% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+HTML                     1 hr 1 min          ███████████████░░░░░░░░░░   62.73% 
+C#                       36 mins             █████████░░░░░░░░░░░░░░░░   37.16% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
 
