@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-688554%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-696965%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -68,7 +68,7 @@ Sunday       103 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Java                     7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
