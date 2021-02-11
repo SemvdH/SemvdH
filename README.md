@@ -35,9 +35,9 @@
 <code><img height="30" src="https://i.pinimg.com/originals/24/e0/a3/24e0a35fd1bee2de25e10f84cbffe2b8.png"></code>
 <br/>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-709493%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-710127%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -68,9 +68,9 @@ Sunday       92 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-C                        7 hrs 14 mins       ███████████████████░░░░░░   78.19% 
-Makefile                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.58% 
+C                        7 hrs 15 mins       ███████████████████░░░░░░   78.22% 
+Makefile                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
 CMake                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
 Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
 
