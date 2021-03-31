@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-720054%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-728958%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -68,9 +68,8 @@ Sunday       92 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-C                        5 hrs 15 mins       █████████████████████████   99.94% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+C                        1 hr 30 mins        █████████████████████████   99.84% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 ```
 
