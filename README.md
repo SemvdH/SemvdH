@@ -35,7 +35,7 @@
 <code><img height="30" src="https://i.pinimg.com/originals/24/e0/a3/24e0a35fd1bee2de25e10f84cbffe2b8.png"></code>
 <br/>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-737253%20lines%20of%20code-blue)
 
