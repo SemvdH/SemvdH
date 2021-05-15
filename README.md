@@ -68,7 +68,7 @@ Sunday       68 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-XML                      2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
