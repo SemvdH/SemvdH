@@ -20,7 +20,7 @@
 - 🎮 Beginner PS Vita Game developer
 - 🛹 Skater
 - 💻 Computer enthusiast
-- 🐦 How to reach me: [Twitter](https://twitter.com/semtex99), [LinkedIn](https://www.linkedin.com/in/sem-van-der-hoeven-50a193206/)
+- 🐦 How to reach me: [Twitter](https://twitter.com/semtex99), [LinkedIn](https://www.linkedin.com/in/sem-van-der-hoeven-50a193206/), [Itch.io](https://semvdh.itch.io/)
 <br/>
 
 ### Languages and tools
