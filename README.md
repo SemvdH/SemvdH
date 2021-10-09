@@ -68,12 +68,13 @@ Sunday       31 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     4 hrs 19 mins       ████████████████████████░   97.5% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 
 ```
 
 
- Last Updated on 08/10/2021
+ Last Updated on 09/10/2021
 <!--END_SECTION:waka-->
 
 
