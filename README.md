@@ -16,9 +16,10 @@
 
 - 📚 Computer Science student at [Avans Hogeschool Breda](https://www.avans.nl/opleidingen/opleidingzoeker/technische-informatica-breda-voltijd-bachelor/)
 - 🛠 Currently working on all kinds of cool projects, see my [repositories](https://github.com/SemvdH?tab=repositories) for more!
-- 📖 Currently learning CompSci at uni, this semester is about Android
+- 💽 Homelab enthusiast
 - 🎮 Beginner PS Vita Game developer
 - 🛹 Skater
+- 🚴 Fixed Gear rider
 - 💻 Computer enthusiast
 - 🐦 How to reach me: [Twitter](https://twitter.com/semtex99), [LinkedIn](https://www.linkedin.com/in/sem-van-der-hoeven-50a193206/), [Itch.io](https://semvdh.itch.io/)
 <br/>
