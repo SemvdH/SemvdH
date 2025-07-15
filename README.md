@@ -6,9 +6,6 @@
 <a href="https://github.com/SemvdH">
   <img align="left" alt="Sem's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/sem_vdh/">
-  <img align="left" alt="Sem's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <br/>
 <br/>
@@ -21,7 +18,6 @@
 - 🛹 Skater
 - 🚴 Fixed Gear rider
 - 💻 Computer enthusiast
-- 🐦 How to reach me: [Twitter](https://twitter.com/semtex99), [LinkedIn](https://www.linkedin.com/in/sem-van-der-hoeven-50a193206/), [Itch.io](https://semvdh.itch.io/)
 <br/>
 
 ### Languages and tools
